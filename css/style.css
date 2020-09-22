@@ -868,9 +868,11 @@ pre {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
     -webkit-box-flex: 1;
+    position: middle;
+  left: -1px;
     -ms-flex-positive: 1;
-    flex-grow: 1;
-    max-width: 100%; }
+    flex-grow: 3;
+    max-width: 40%; }
   .col-md-auto {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
@@ -6171,7 +6173,11 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1.5rem !important;
+
+
+
+}
 
 .ml-4,
 .mx-4 {
