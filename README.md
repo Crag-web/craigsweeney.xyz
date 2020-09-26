@@ -1,2 +1,0 @@
-# craigsweeney.xyz
-CV website
